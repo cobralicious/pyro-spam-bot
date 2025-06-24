@@ -13,7 +13,8 @@ This bot is created solely for **educational purposes** to demonstrate how to in
 
 ---
 
-## Description   <p>
+<p>
+  ## Description  
   <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python 3.7+">
   </a>
