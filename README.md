@@ -18,12 +18,6 @@ This bot is created solely for **educational purposes** to demonstrate how to in
   <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python 3.7+">
   </a>
-  <a href="https://opensource.org/licenses/MIT"> <!-- Change this URL if you use a different license -->
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"> <!-- Or choose another license badge -->
-  </a>
-  <a href="https://pypi.org/project/python-telegram-bot/">
-    <img src="https://img.shields.io/pypi/v/python-telegram-bot.svg" alt="PyPI version">
-  </a>
 </p>
 
 A simple Telegram bot written in Python using the `python-telegram-bot` library. The bot allows the "owner" to send a specified number of messages to a specific Telegram user by their User ID.
