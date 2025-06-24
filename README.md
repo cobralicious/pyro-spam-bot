@@ -12,7 +12,7 @@ This bot is created solely for **educational purposes** to demonstrate how to in
 **You are solely responsible for any misuse of this code.**
 
 ---
-## Description  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python 3.7+"></a>
+## Description
 
 A simple Telegram bot written in Python using the `python-telegram-bot` library. The bot allows the "owner" to send a specified number of messages to a specific Telegram user by their User ID.
 
@@ -25,8 +25,8 @@ A simple Telegram bot written in Python using the `python-telegram-bot` library.
 
 ## Prerequisites
 
-*   Python 3.7+
-*   pip (Python package installer)
+*   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.7+-blue.svg?logo=python&logoColor=white" alt="Python 3.7+"></a>
+*   <a href="https://pip.pypa.io/en/stable/installation/"><img src="https://img.shields.io/badge/pip-required-green.svg?logo=python&logoColor=white" alt="pip (Python package installer)"></a> 
 
 ## Installation
 
