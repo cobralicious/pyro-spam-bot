@@ -12,9 +12,8 @@ This bot is created solely for **educational purposes** to demonstrate how to in
 **You are solely responsible for any misuse of this code.**
 
 ---
-
+## Description  
 <p>
-  ## Description  
   <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python 3.7+">
   </a>
