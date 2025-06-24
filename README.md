@@ -32,7 +32,7 @@ A simple Telegram bot written in Python using the `python-telegram-bot` library.
 
 1.  **Clone the repository (or just download `bot.py`):**
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git [clone <YOUR_REPOSITORY_URL>](https://github.com/cobralicious/pyro-spam-bot.git)
     cd <YOUR_REPOSITORY_FOLDER_NAME>
     ```
 
